@@ -21,11 +21,3 @@ No diretório do projeto, inicie os projetos com esses comandos:
 ### `npm  start`
 
 Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
-
-
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
